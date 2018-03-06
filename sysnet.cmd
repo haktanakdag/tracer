@@ -1,0 +1,1 @@
+tracert 8.8.8.8 1>>Tracert.txt
